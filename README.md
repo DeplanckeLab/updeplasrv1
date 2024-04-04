@@ -20,4 +20,4 @@ docker run -d --name updeplasrv1 -p 8080:80 updeplasrv1
 
 # Access website
 
-Website should then be accessible from a browser at (localhost:8080)[localhost:8080]
+Website should then be accessible from a browser at [localhost:8080](localhost:8080)
