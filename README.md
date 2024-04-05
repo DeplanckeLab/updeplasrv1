@@ -1,5 +1,11 @@
 # Install
 
+## Clone the current repo
+
+```shell
+git clone https://github.com/DeplanckeLab/updeplasrv1.git
+```
+
 ## Build the Docker image from Dockerfile
 
 It will automatically pull the latest httpd:latest image.
