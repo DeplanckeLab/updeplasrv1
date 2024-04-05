@@ -4,6 +4,7 @@
 
 ```shell
 git clone https://github.com/DeplanckeLab/updeplasrv1.git
+cd updeplasrv1
 ```
 
 ## Build the Docker image from Dockerfile
